@@ -74,7 +74,7 @@ Hosting
 ------------------------------------------------------------
 
 ## Project Structure
-
+```
 src/
 ├─ components/
 │  ├─ Search.jsx
@@ -85,7 +85,7 @@ src/
 ├─ App.jsx           # Root application component
 ├─ index.css         # Global Tailwind styles
 └─ main.jsx          # Application entry point
-
+```
 ------------------------------------------------------------
 
 ## Development Insights
